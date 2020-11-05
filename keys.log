@@ -1,0 +1,727 @@
+INFO	2020-11-04 23:14:41,473	0	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	d
+INFO	2020-11-04 23:14:41,502	29	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	df
+INFO	2020-11-04 23:14:41,603	130	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfg
+INFO	2020-11-04 23:14:41,766	293	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgd
+INFO	2020-11-04 23:14:41,835	362	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdf
+INFO	2020-11-04 23:14:41,936	463	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfg
+INFO	2020-11-04 23:14:42,774	1301	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgd
+INFO	2020-11-04 23:14:42,835	1362	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdf
+INFO	2020-11-04 23:14:42,913	1440	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfg
+INFO	2020-11-04 23:14:43,061	1588	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgd
+INFO	2020-11-04 23:14:43,139	1666	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdf
+INFO	2020-11-04 23:14:43,231	1758	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfg
+INFO	2020-11-04 23:14:43,439	1966	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgd
+INFO	2020-11-04 23:14:44,286	2813	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgdd
+INFO	2020-11-04 23:14:44,363	2890	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddf
+INFO	2020-11-04 23:14:44,449	2976	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg
+INFO	2020-11-04 23:14:45,065	3592	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg d
+INFO	2020-11-04 23:14:45,145	3672	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg df
+INFO	2020-11-04 23:14:45,210	3737	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg
+INFO	2020-11-04 23:14:45,415	3942	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg d
+INFO	2020-11-04 23:14:45,481	4008	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg df
+INFO	2020-11-04 23:14:45,542	4069	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg
+INFO	2020-11-04 23:14:45,888	4415	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg d
+INFO	2020-11-04 23:14:45,955	4482	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg df
+INFO	2020-11-04 23:14:46,021	4548	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg dfg
+INFO	2020-11-04 23:14:46,180	4707	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg dfg d
+INFO	2020-11-04 23:14:46,256	4783	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg dfg df
+INFO	2020-11-04 23:14:46,316	4843	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg dfg dfg
+INFO	2020-11-04 23:14:46,490	5017	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg dfg dfg d
+INFO	2020-11-04 23:14:46,566	5093	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg dfg dfg df
+INFO	2020-11-04 23:14:46,630	5157	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg dfg dfg dfg
+INFO	2020-11-04 23:14:47,162	5689	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGd
+INFO	2020-11-04 23:14:47,236	5763	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdf
+INFO	2020-11-04 23:14:47,315	5842	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg
+INFO	2020-11-04 23:14:47,673	6200	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg d
+INFO	2020-11-04 23:14:47,737	6264	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg df
+INFO	2020-11-04 23:14:47,802	6329	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg
+INFO	2020-11-04 23:14:48,375	6902	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg d
+INFO	2020-11-04 23:14:48,426	6953	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg df
+INFO	2020-11-04 23:14:48,471	6998	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg dfg
+INFO	2020-11-04 23:14:49,177	7704	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg dfg d
+INFO	2020-11-04 23:14:49,261	7788	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg dfg df
+INFO	2020-11-04 23:14:49,330	7857	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg dfg dfg
+INFO	2020-11-04 23:14:50,251	8778	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGd
+INFO	2020-11-04 23:14:50,337	8864	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf
+INFO	2020-11-04 23:14:50,465	8992	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf g
+INFO	2020-11-04 23:14:51,662	10189	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gd
+INFO	2020-11-04 23:14:51,721	10248	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gdf
+INFO	2020-11-04 23:14:51,797	10324	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gdfg
+INFO	2020-11-04 23:14:52,416	10943	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gdfg d
+INFO	2020-11-04 23:14:52,495	11022	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gdfg df
+INFO	2020-11-04 23:14:52,561	11088	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gdfg dfg
+INFO	2020-11-04 23:14:53,810	12337	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gDFG DFG  d
+INFO	2020-11-04 23:14:53,892	12419	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gDFG DFG  df
+INFO	2020-11-04 23:14:53,972	12499	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gDFG DFG  dfg
+INFO	2020-11-04 23:14:54,215	12742	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gDFG DFG  dfgd
+INFO	2020-11-04 23:14:54,307	12834	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gDFG DFG  dfgdf
+INFO	2020-11-04 23:14:54,380	12907	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gDFG DFG  dfgdfg
+INFO	2020-11-04 23:15:02,970	21497	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	dfgdfgdfgdfgddfg dfg dfg DFG DFG DFGdfg dfg DFG DFGdf gDFG DFG  dfgdfg
+ENTER
+INFO	2020-11-04 23:15:04,262	22789	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	x
+INFO	2020-11-04 23:15:04,401	22928	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	xc
+INFO	2020-11-04 23:15:04,403	22930	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	xcf
+INFO	2020-11-04 23:15:04,427	22954	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	xcfg
+INFO	2020-11-04 23:15:04,445	22972	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	xcfgv
+INFO	2020-11-04 23:15:05,291	23818	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVd
+INFO	2020-11-04 23:15:05,307	23834	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVdf
+INFO	2020-11-04 23:15:05,417	23944	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVdfg
+INFO	2020-11-04 23:15:06,446	24973	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGd
+INFO	2020-11-04 23:15:06,480	25007	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdf
+INFO	2020-11-04 23:15:06,558	25085	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfg
+INFO	2020-11-04 23:15:06,725	25252	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgd
+INFO	2020-11-04 23:15:06,803	25330	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdf
+INFO	2020-11-04 23:15:06,866	25393	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfg
+INFO	2020-11-04 23:15:07,028	25555	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfgd
+INFO	2020-11-04 23:15:07,076	25603	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfgdf
+INFO	2020-11-04 23:15:07,137	25664	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfgdfg
+INFO	2020-11-04 23:15:07,313	25840	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfgdfgd
+INFO	2020-11-04 23:15:07,376	25903	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfgdfgdf
+INFO	2020-11-04 23:15:07,467	25994	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfgdfgdfg
+INFO	2020-11-04 23:15:07,644	26171	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfgdfgdfgd
+INFO	2020-11-04 23:15:07,671	26198	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfgdfgdfgdf
+INFO	2020-11-04 23:15:07,735	26262	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGdfgdfgdfgdfgdfg
+INFO	2020-11-04 23:15:08,092	26619	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	XCFGVDFGDFGDFGDFGDFGDFG
+ENTER
+INFO	2020-11-04 23:16:33,375	111902	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	 BACKSPACE
+INFO	2020-11-04 23:16:35,061	113588	evil.inc.service.KeyLoggerService	[JNativeHook Dispatch Thread]	 BACKSPACE CTRL[s
+2020-11-04 23:16:49,527	 CTRL[ CTRL[ CTRL[ CTRL[] CTRL[c
+2020-11-04 23:16:50,760	 CTRL[ CTRL[ CTRL[ CTRL[] CTRL[c] CTRL[v
+2020-11-04 23:16:52,041	 CTRL[ CTRL[ CTRL[ CTRL[] CTRL[c] CTRL[v] CTRL[s
+2020-11-04 23:17:22,116	d
+2020-11-04 23:17:22,119	df
+2020-11-04 23:17:22,235	dfg
+2020-11-04 23:17:22,354	dfgd
+2020-11-04 23:17:22,492	dfgdf
+2020-11-04 23:17:23,028	dfgdfd
+2020-11-04 23:17:23,143	dfgdfdf
+2020-11-04 23:17:23,153	dfgdfdfg
+2020-11-04 23:17:23,342	dfgdfdfgd
+2020-11-04 23:17:23,468	dfgdfdfgd f
+2020-11-04 23:17:23,560	dfgdfdfgd fg
+2020-11-04 23:17:23,829	dfgdfdfgd fgd
+2020-11-04 23:17:23,925	dfgdfdfgd fgd f
+2020-11-04 23:17:23,975	dfgdfdfgd fgd fg
+2020-11-04 23:17:24,299	dfgdfdfgd fgd fg d
+2020-11-04 23:17:24,384	dfgdfdfgd fgd fg df
+2020-11-04 23:17:24,431	dfgdfdfgd fgd fg dfg
+2020-11-04 23:17:24,618	dfgdfdfgd fgd fg dfg d
+2020-11-04 23:17:24,716	dfgdfdfgd fgd fg dfg df
+2020-11-04 23:17:24,769	dfgdfdfgd fgd fg dfg dfg
+2020-11-04 23:17:29,255	dfgdfdfgd fgd fg dfg dfg s
+2020-11-04 23:17:29,353	dfgdfdfgd fgd fg dfg dfg sd
+2020-11-04 23:17:29,491	dfgdfdfgd fgd fg dfg dfg sdf
+2020-11-04 23:17:29,597	dfgdfdfgd fgd fg dfg dfg sdfd
+2020-11-04 23:17:29,693	dfgdfdfgd fgd fg dfg dfg sdfdf
+2020-11-04 23:17:29,761	dfgdfdfgd fgd fg dfg dfg sdfdfg
+2020-11-04 23:17:29,874	dfgdfdfgd fgd fg dfg dfg sdfdfgd
+2020-11-04 23:17:29,940	dfgdfdfgd fgd fg dfg dfg sdfdfgdf
+2020-11-04 23:17:29,996	dfgdfdfgd fgd fg dfg dfg sdfdfgdfg
+2020-11-04 23:17:32,148	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG d
+2020-11-04 23:17:32,240	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG df
+2020-11-04 23:17:32,372	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfg
+2020-11-04 23:17:33,300	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgd
+2020-11-04 23:17:33,405	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdf
+2020-11-04 23:17:33,496	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg
+2020-11-04 23:17:33,690	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg d
+2020-11-04 23:17:33,785	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg df
+2020-11-04 23:17:33,874	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg
+2020-11-04 23:17:34,076	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg d
+2020-11-04 23:17:34,146	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg df
+2020-11-04 23:17:34,211	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfg
+2020-11-04 23:17:34,677	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd
+2020-11-04 23:17:34,812	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd f
+2020-11-04 23:17:34,865	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fg
+2020-11-04 23:17:34,993	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fgd
+2020-11-04 23:17:35,175	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fgd f
+2020-11-04 23:17:35,222	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fgd fg
+2020-11-04 23:17:35,370	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fgd fgd
+2020-11-04 23:17:35,465	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fgd fgdf
+2020-11-04 23:17:35,539	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fgd fgdf g
+2020-11-04 23:17:35,678	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fgd fgdf gd
+2020-11-04 23:17:35,751	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fgd fgdf gdf
+2020-11-04 23:17:35,798	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgd fgd fgdf gdfg
+2020-11-04 23:17:39,278	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgD FGD FGDF GDFG  d
+2020-11-04 23:17:39,374	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgD FGD FGDF GDFG  df
+2020-11-04 23:17:39,457	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgD FGD FGDF GDFG  dfg
+2020-11-04 23:17:39,613	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgD FGD FGDF GDFG  dfgd
+2020-11-04 23:17:39,687	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgD FGD FGDF GDFG  dfgdf
+2020-11-04 23:17:39,756	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgD FGD FGDF GDFG  dfgdfg
+2020-11-04 23:17:39,997	dfgdfdfgd fgd fg dfg dfg SDFDFGDFG dfgdfg dfg dfgD FGD FGDF GDFG  dfgdfg
+ENTER
+2020-11-04 23:17:40,156	d
+2020-11-04 23:17:40,274	df
+2020-11-04 23:17:40,373	dfg
+2020-11-04 23:17:40,593	dfg d
+2020-11-04 23:17:40,667	dfg df
+2020-11-04 23:17:40,754	dfg dfg
+2020-11-04 23:17:40,758	dfg dfg
+ENTER
+2020-11-04 23:17:40,950	 d
+2020-11-04 23:17:41,002	 df
+2020-11-04 23:17:41,123	 dfg
+2020-11-04 23:17:41,401	 dfg d
+2020-11-04 23:17:41,482	 dfg df
+2020-11-04 23:17:41,536	 dfg dfg
+2020-11-04 23:17:41,749	 dfg dfg d
+2020-11-04 23:17:41,836	 dfg dfg df
+2020-11-04 23:17:41,910	 dfg dfg dfg
+2020-11-04 23:17:43,018	 dfg dfg dfg d
+2020-11-04 23:17:43,035	 dfg dfg dfg df
+2020-11-04 23:17:43,168	 dfg dfg dfg dfg
+2020-11-04 23:17:43,341	 dfg dfg dfg dfgd
+2020-11-04 23:17:43,409	 dfg dfg dfg dfgdf
+2020-11-04 23:17:43,486	 dfg dfg dfg dfgdfg
+2020-11-04 23:17:43,990	 dfg dfg dfg DFGDFG
+ENTER
+2020-11-04 23:17:45,106	u
+2020-11-04 23:17:45,185	un
+2020-11-04 23:17:45,298	une
+2020-11-04 23:17:45,553	unex
+2020-11-04 23:17:45,741	unex
+ENTER
+2020-11-04 23:17:46,959	u
+2020-11-04 23:17:47,175	um
+2020-11-04 23:17:47,355	umm
+2020-11-04 23:17:47,495	umms
+2020-11-04 23:17:48,072	umms
+ENTER
+2020-11-04 23:18:55,018	 CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[y
+2020-11-04 23:18:58,388	 CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[y] CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[] CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[ CTRL[s
+2020-11-04 23:19:14,435	sdfsdfsdf sdf sdf sdf sdf 
+ENTER
+2020-11-04 23:19:20,577	sdfsdf sdf sdlfksdlf iweo ijwefo piwejr oweirj woeirj wer.w erw er
+ENTER
+2020-11-04 23:19:26,069	eflodkfgjmdlfkgm ldkfg d.fgmwolek rgoweri gmnwoepfuig nweaqrgij nwoergij vbqaeiorgn mqearopgvk nwmaeb
+ENTER
+2020-11-04 23:19:34,796	dsflgkjnsdf dsfg sdfg sdfG sdFG SDFG SDFG sdfgw erlgkwejn ogiwe
+ENTER
+2020-11-04 23:20:34,916	KeyDescriptor
+ENTER
+2020-11-04 23:20:39,030	sdfkjsdf
+ENTER
+2020-11-04 23:20:47,377	
+ENTER
+2020-11-04 23:20:50,058	public statid
+2020-11-04 23:20:50,224	public stati
+2020-11-04 23:20:57,909	public static void main90leftdownleftleftString args[]right[
+ENTER
+2020-11-04 23:21:03,557	dfsdfsdf sdf sd
+2020-11-04 23:21:03,904	dfsdfsdf sdf s
+2020-11-04 23:21:34,137	dfsdfsdf sdf s CTRL[s]9
+ENTER
+2020-11-04 23:21:37,085	0
+ENTER
+2020-11-04 23:21:41,667	9
+2020-11-04 23:21:41,978	9
+ENTER
+2020-11-04 23:21:44,218	0
+ENTER
+2020-11-04 23:21:45,976	9
+ENTER
+2020-11-04 23:21:47,274	9
+ENTER
+2020-11-04 23:21:48,788	0
+ENTER
+2020-11-04 23:21:53,219	0
+ENTER
+2020-11-04 23:21:54,320	9
+ENTER
+2020-11-04 23:21:55,262	0
+ENTER
+2020-11-04 23:21:57,101	9
+ENTER
+2020-11-04 23:21:58,539	0
+ENTER
+2020-11-04 23:21:59,695	9
+ENTER
+2020-11-04 23:22:00,428	0
+ENTER
+2020-11-05 10:09:01,527	d
+2020-11-05 10:10:59,908	umms
+ENTER
+2020-11-05 10:11:03,245	unex
+ENTER
+2020-11-05 10:11:06,213	umms
+ENTER
+2020-11-05 10:11:10,240	sdfsdf sdf sdf sdf sdf sdf sdf 
+ENTER
+2020-11-05 10:11:29,425	123456789
+ENTER
+2020-11-05 10:12:13,135	
+ENTER
+2020-11-05 10:16:27,417	
+ENTER
+2020-11-05 10:16:28,946	sdfsdf
+ENTER
+2020-11-05 10:16:30,629	sdfsdfsdf
+ENTER
+2020-11-05 10:16:32,105	D
+ENTER
+2020-11-05 10:16:35,111	9
+ENTER
+2020-11-05 10:16:37,801	0
+ENTER
+2020-11-05 10:16:40,597	9
+ENTER
+2020-11-05 10:16:43,332	0
+ENTER
+2020-11-05 10:16:45,411	9
+ENTER
+2020-11-05 10:16:46,371	0
+ENTER
+2020-11-05 10:16:49,114	 ALT[]]9
+ENTER
+2020-11-05 10:16:57,310	0
+ENTER
+2020-11-05 10:16:58,457	0
+ENTER
+2020-11-05 10:17:00,041	9
+ENTER
+2020-11-05 10:17:05,667	 ALT[]9
+ENTER
+2020-11-05 10:17:07,122	0
+ENTER
+2020-11-05 10:17:09,099	[
+ENTER
+2020-11-05 10:17:12,007	]
+ENTER
+2020-11-05 10:17:16,428	"
+ENTER
+2020-11-05 10:17:17,883	\
+ENTER
+2020-11-05 10:17:19,439	\
+ENTER
+2020-11-05 10:17:21,066	"
+ENTER
+2020-11-05 10:17:23,487	/
+ENTER
+2020-11-05 10:17:25,070	.
+ENTER
+2020-11-05 10:17:28,196	9
+ENTER
+2020-11-05 10:17:29,884	9
+ENTER
+2020-11-05 10:17:31,047	8
+ENTER
+2020-11-05 10:17:35,175	 ALT[]]8
+ENTER
+2020-11-05 10:17:39,502	8
+ENTER
+2020-11-05 10:17:40,828	8
+ENTER
+2020-11-05 10:21:28,982	30
+2020-11-05 10:21:28,983	￿
+2020-11-05 10:21:28,983	65
+2020-11-05 10:21:28,983	1
+2020-11-05 10:21:29,044	Shift+Ctrl+Meta+Alt
+2020-11-05 10:21:29,086	31
+2020-11-05 10:21:29,086	￿
+2020-11-05 10:21:29,086	83
+2020-11-05 10:21:29,086	1
+2020-11-05 10:21:29,086	Shift+Ctrl+Meta+Alt
+2020-11-05 10:21:29,151	32
+2020-11-05 10:21:29,151	￿
+2020-11-05 10:21:29,151	68
+2020-11-05 10:21:29,151	1
+2020-11-05 10:21:29,151	Ctrl
+2020-11-05 10:21:29,329	30
+2020-11-05 10:21:29,329	￿
+2020-11-05 10:21:29,329	65
+2020-11-05 10:21:29,329	1
+2020-11-05 10:21:29,329	Shift+Ctrl+Meta+Alt
+2020-11-05 10:21:29,416	31
+2020-11-05 10:21:29,416	￿
+2020-11-05 10:21:29,416	83
+2020-11-05 10:21:29,416	1
+2020-11-05 10:21:29,416	Shift+Ctrl+Meta+Alt
+2020-11-05 10:21:29,460	32
+2020-11-05 10:21:29,460	￿
+2020-11-05 10:21:29,460	68
+2020-11-05 10:21:29,460	1
+2020-11-05 10:21:29,460	Ctrl
+2020-11-05 10:21:30,689	30
+2020-11-05 10:21:30,689	￿
+2020-11-05 10:21:30,689	65
+2020-11-05 10:21:30,689	1
+2020-11-05 10:21:30,689	Shift+Ctrl+Meta+Alt
+2020-11-05 10:21:30,894	31
+2020-11-05 10:21:30,894	￿
+2020-11-05 10:21:30,894	83
+2020-11-05 10:21:30,894	1
+2020-11-05 10:21:30,894	Shift+Ctrl+Meta+Alt
+2020-11-05 10:21:31,013	32
+2020-11-05 10:21:31,013	￿
+2020-11-05 10:21:31,013	68
+2020-11-05 10:21:31,013	1
+2020-11-05 10:21:31,013	Ctrl
+2020-11-05 10:21:34,040	30
+2020-11-05 10:21:34,040	￿
+2020-11-05 10:21:34,040	65
+2020-11-05 10:21:34,040	1
+2020-11-05 10:21:34,040	Shift+Ctrl+Meta+Alt
+2020-11-05 10:21:36,260	31
+2020-11-05 10:21:36,261	￿
+2020-11-05 10:21:36,261	83
+2020-11-05 10:21:36,261	1
+2020-11-05 10:21:36,261	Shift+Ctrl+Meta+Alt
+2020-11-05 10:21:36,940	32
+2020-11-05 10:21:36,940	￿
+2020-11-05 10:21:36,940	68
+2020-11-05 10:21:36,940	1
+2020-11-05 10:21:36,940	Ctrl
+2020-11-05 10:21:37,525	33
+2020-11-05 10:21:37,525	￿
+2020-11-05 10:21:37,526	70
+2020-11-05 10:21:37,526	1
+2020-11-05 10:21:37,526	Shift+Ctrl
+2020-11-05 10:21:38,060	34
+2020-11-05 10:21:38,060	￿
+2020-11-05 10:21:38,060	71
+2020-11-05 10:21:38,060	1
+2020-11-05 10:21:38,060	Ctrl
+2020-11-05 10:21:38,524	35
+2020-11-05 10:21:38,524	￿
+2020-11-05 10:21:38,524	72
+2020-11-05 10:21:38,524	1
+2020-11-05 10:21:38,524	Shift+Ctrl
+2020-11-05 10:21:38,956	36
+2020-11-05 10:21:38,956	￿
+2020-11-05 10:21:38,956	74
+2020-11-05 10:21:38,956	1
+2020-11-05 10:21:38,956	Ctrl+Meta
+2020-11-05 10:22:40,674	SDFASDFASDFSDF
+ENTER
+2020-11-05 10:22:41,941	ASDFASDF
+ENTER
+2020-11-05 10:22:44,067	9
+ENTER
+2020-11-05 10:22:45,619	0
+ENTER
+2020-11-05 10:22:47,368	0
+ENTER
+2020-11-05 10:22:48,391	9
+ENTER
+2020-11-05 10:32:39,789	2401
+2020-11-05 10:32:39,790	11
+2020-11-05 10:32:40,945	2401
+2020-11-05 10:32:40,945	11
+2020-11-05 10:32:42,920	2401
+2020-11-05 10:32:42,920	11
+2020-11-05 10:32:44,292	2401
+2020-11-05 10:32:44,292	11
+2020-11-05 10:32:45,589	2401
+2020-11-05 10:32:45,589	3675
+2020-11-05 10:32:45,749	2401
+2020-11-05 10:32:45,749	38
+2020-11-05 10:41:17,406	0000metal
+ENTER
+2020-11-05 10:42:03,188	2401
+2020-11-05 10:42:03,188	50
+2020-11-05 10:42:03,271	2401
+2020-11-05 10:42:03,271	18
+2020-11-05 10:42:03,460	2401
+2020-11-05 10:42:03,460	20
+2020-11-05 10:42:03,643	2401
+2020-11-05 10:42:03,643	30
+2020-11-05 10:42:03,738	2401
+2020-11-05 10:42:03,738	38
+2020-11-05 10:42:06,661	2401
+2020-11-05 10:42:06,661	2
+2020-11-05 10:42:06,753	2401
+2020-11-05 10:42:06,753	3
+2020-11-05 10:42:06,823	2401
+2020-11-05 10:42:06,823	4
+2020-11-05 10:42:07,202	2401
+2020-11-05 10:42:07,202	5
+2020-11-05 10:42:07,289	2401
+2020-11-05 10:42:07,289	6
+2020-11-05 10:42:07,333	2401
+2020-11-05 10:42:07,333	7
+2020-11-05 10:42:08,622	2401
+2020-11-05 10:42:08,622	32
+2020-11-05 10:42:08,732	2401
+2020-11-05 10:42:08,733	33
+2020-11-05 10:42:08,828	2401
+2020-11-05 10:42:08,828	34
+2020-11-05 10:42:09,019	2401
+2020-11-05 10:42:09,019	32
+2020-11-05 10:42:09,114	2401
+2020-11-05 10:42:09,114	33
+2020-11-05 10:42:09,145	2401
+2020-11-05 10:42:09,145	34
+2020-11-05 10:42:09,306	2401
+2020-11-05 10:42:09,306	32
+2020-11-05 10:42:09,399	2401
+2020-11-05 10:42:09,399	33
+2020-11-05 10:42:09,443	2401
+2020-11-05 10:42:09,444	34
+2020-11-05 10:42:09,604	2401
+2020-11-05 10:42:09,604	32
+2020-11-05 10:42:09,685	2401
+2020-11-05 10:42:09,686	33
+2020-11-05 10:42:09,747	2401
+2020-11-05 10:42:09,747	34
+2020-11-05 10:42:10,930	2401
+2020-11-05 10:42:10,930	32
+2020-11-05 10:42:11,068	2401
+2020-11-05 10:42:11,068	33
+2020-11-05 10:42:11,255	2401
+2020-11-05 10:42:11,255	34
+2020-11-05 10:42:11,804	2401
+2020-11-05 10:42:11,804	32
+2020-11-05 10:42:11,972	2401
+2020-11-05 10:42:11,972	33
+2020-11-05 10:42:12,136	2401
+2020-11-05 10:42:12,136	34
+2020-11-05 10:42:12,884	2401
+2020-11-05 10:42:12,884	32
+2020-11-05 10:42:13,097	2401
+2020-11-05 10:42:13,097	33
+2020-11-05 10:42:13,607	2401
+2020-11-05 10:42:13,607	34
+2020-11-05 10:42:14,071	2401
+2020-11-05 10:42:14,071	35
+2020-11-05 10:42:14,358	2401
+2020-11-05 10:42:14,358	36
+2020-11-05 10:42:14,850	2401
+2020-11-05 10:42:14,850	37
+2020-11-05 10:42:15,562	2401
+2020-11-05 10:42:15,562	38
+2020-11-05 10:42:17,241	2401
+2020-11-05 10:42:17,241	2
+2020-11-05 10:42:17,571	2401
+2020-11-05 10:42:17,571	3
+2020-11-05 10:42:17,878	2401
+2020-11-05 10:42:17,878	4
+2020-11-05 10:42:19,030	2401
+2020-11-05 10:42:19,030	5
+2020-11-05 10:42:19,304	2401
+2020-11-05 10:42:19,304	6
+2020-11-05 10:42:21,007	2401
+2020-11-05 10:42:21,007	2
+2020-11-05 10:42:21,856	2401
+2020-11-05 10:42:21,856	3
+2020-11-05 10:42:22,379	2401
+2020-11-05 10:42:22,379	4
+2020-11-05 10:42:24,893	2401
+2020-11-05 10:42:24,893	3
+2020-11-05 10:42:26,261	2401
+2020-11-05 10:42:26,264	3
+2020-11-05 10:42:28,296	2401
+2020-11-05 10:42:28,296	3
+2020-11-05 10:42:29,099	2401
+2020-11-05 10:42:29,099	3
+2020-11-05 10:42:29,521	2401
+2020-11-05 10:42:29,521	3
+2020-11-05 10:42:29,752	2401
+2020-11-05 10:42:29,752	3
+2020-11-05 10:42:29,959	2401
+2020-11-05 10:42:29,959	3
+2020-11-05 10:42:30,169	2401
+2020-11-05 10:42:30,169	3
+2020-11-05 10:42:30,670	2401
+2020-11-05 10:42:30,671	3
+2020-11-05 10:42:30,718	2401
+2020-11-05 10:42:30,718	3
+2020-11-05 10:42:30,748	2401
+2020-11-05 10:42:30,748	3
+2020-11-05 10:42:30,780	2401
+2020-11-05 10:42:30,780	3
+2020-11-05 10:42:30,812	2401
+2020-11-05 10:42:30,812	3
+2020-11-05 10:42:30,844	2401
+2020-11-05 10:42:30,845	3
+2020-11-05 10:42:30,875	2401
+2020-11-05 10:42:30,876	3
+2020-11-05 10:42:30,906	2401
+2020-11-05 10:42:30,907	3
+2020-11-05 10:42:30,937	2401
+2020-11-05 10:42:30,938	3
+2020-11-05 10:42:30,967	2401
+2020-11-05 10:42:30,967	3
+2020-11-05 10:42:31,014	2401
+2020-11-05 10:42:31,014	3
+2020-11-05 10:42:31,774	2401
+2020-11-05 10:42:31,774	3
+2020-11-05 10:42:32,678	2401
+2020-11-05 10:42:32,678	3
+2020-11-05 10:42:33,299	2401
+2020-11-05 10:42:33,300	3
+2020-11-05 10:42:33,681	2401
+2020-11-05 10:42:33,681	3
+2020-11-05 10:42:33,937	2401
+2020-11-05 10:42:33,937	3
+2020-11-05 10:42:34,130	2401
+2020-11-05 10:42:34,130	3
+2020-11-05 10:42:34,319	2401
+2020-11-05 10:42:34,319	3
+2020-11-05 10:42:34,491	2401
+2020-11-05 10:42:34,491	3
+2020-11-05 10:46:20,111	!234567890 ALT[
+ENTER
+2020-11-05 10:46:22,800	1234567890 ALT[
+ENTER
+2020-11-05 10:46:25,297	!234567890 ALT[
+ENTER
+2020-11-05 10:46:29,171	!234567890 ALT[
+ENTER
+2020-11-05 10:47:46,537	!
+ENTER
+2020-11-05 10:47:48,711	1
+ENTER
+2020-11-05 10:47:50,398	!
+ENTER
+2020-11-05 10:47:51,693	!
+ENTER
+2020-11-05 10:52:51,664	
+ENTER
+2020-11-05 10:52:53,701	1
+ENTER
+2020-11-05 10:52:58,896	1@#$%%
+2020-11-05 10:52:59,078	1@#$%
+2020-11-05 10:53:02,035	1@#$%^&*(
+ENTER
+2020-11-05 10:53:06,036	!
+ENTER
+2020-11-05 10:53:07,575	2
+ENTER
+2020-11-05 10:53:08,859	3
+ENTER
+2020-11-05 10:58:20,415	public static void main90leftString args{}right[]left
+ENTER
+2020-11-05 10:58:51,635	
+ENTER
+2020-11-05 10:58:55,733	9
+ENTER
+2020-11-05 10:58:57,495	9
+ENTER
+2020-11-05 10:58:58,612	0
+ENTER
+2020-11-05 10:58:59,570	0
+ENTER
+2020-11-05 10:59:02,337	8
+ENTER
+2020-11-05 10:59:20,981	 ALT[jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj]leftrigh
+2020-11-05 10:59:51,667	 ALT[jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj]leftrigh! CTRL[s]escape{ CTRL[z] CTRL[zz] CTRL[z
+2020-11-05 11:00:12,847	!@#$%^&*()_+1234567890-=
+ENTER
+2020-11-05 11:00:55,273	123456789-=
+ENTER
+2020-11-05 11:01:01,982	!@#$%^&*()
+ENTER
+2020-11-05 11:01:10,574	[];"\,./
+ENTER
+2020-11-05 11:01:15,827	{}:"|<>?
+ENTER
+2020-11-05 11:02:00,516	public static void main9){ BACKSPACE  BACKSPACE String args[]){System.out.println() BACKSPACE "Hello World!");
+ENTER
+2020-11-05 11:03:38,732	public static void main(String args[]0{System.ou
+2020-11-05 11:03:38,911	public static void main(String args[]0{System.o
+2020-11-05 11:03:39,090	public static void main(String args[]0{System.
+2020-11-05 11:03:54,135	public static void main(String args[]0{System.out.println()left"Hello
+2020-11-05 11:04:05,200	public static void main(String args[]0{System.out.println()left"Hello
+ENTER
+2020-11-05 11:04:07,224	()
+ENTER
+2020-11-05 11:04:11,502	(fgh)
+ENTER
+2020-11-05 11:04:13,896	delete(
+ENTER
+2020-11-05 11:04:14,639	)
+ENTER
+2020-11-05 11:04:16,152	(
+ENTER
+2020-11-05 11:04:16,846	)
+ENTER
+2020-11-05 11:04:23,749	 BACKSPACE 
+ENTER
+2020-11-05 11:04:26,110	
+2020-11-05 11:04:26,627	
+ENTER
+2020-11-05 11:04:29,421	gthjghjghj
+ENTER
+2020-11-05 11:04:39,801	bona sera
+ENTER
+2020-11-05 11:04:42,169	bona sera
+ENTER
+2020-11-05 11:04:45,422	ce face"
+2020-11-05 11:04:45,606	ce face
+2020-11-05 11:04:47,569	ce face ALT[]"i/
+ENTER
+2020-11-05 11:05:48,935	 ALT[]]
+ENTER
+2020-11-05 11:05:57,871	ce face~i?
+ENTER
+2020-11-05 11:06:03,458	`
+ENTER
+2020-11-05 11:06:05,310	~
+ENTER
+2020-11-05 11:06:10,075	~
+ENTER
+2020-11-05 11:06:12,748	 ALT[]]"
+ENTER
+2020-11-05 11:06:14,373	"
+ENTER
+2020-11-05 11:06:17,758	
+2020-11-05 11:06:42,222	 BACKSPACE
+2020-11-05 11:06:53,917	 BACKSPAC
+2020-11-05 11:06:54,318	 BACKSPA
+2020-11-05 11:07:05,002	 BACKSP
+2020-11-05 11:07:05,381	 BACKS
+2020-11-05 11:08:11,715	brava brava
+ENTER
+2020-11-05 11:08:16,955	da eu cum, i
+2020-11-05 11:08:17,198	da eu cum, 
+2020-11-05 11:08:21,840	da eu cum, parc[ normal am dormit
+ENTER
+2020-11-05 11:08:26,894	dar nici tare bine >D
+ENTER
+2020-11-05 11:08:28,668	:D
+ENTER
+2020-11-05 11:08:34,395	a;
+2020-11-05 11:08:34,622	a
+2020-11-05 11:08:40,850	aalt;a mai r[u s nu fie >D
+ENTER
+2020-11-05 11:08:46,117	;i deja m[p
+2020-11-05 11:08:46,341	;i deja m[
+2020-11-05 11:08:49,565	;i deja m[ chinui s muncesc
+ENTER
+2020-11-05 11:09:33,678	ctrlzzctrlzz
+2020-11-05 11:09:54,760	ctrlzzctrlzzctrlsctrlzzzzctrlzz
+2020-11-05 11:09:58,929	ctrlzzctrlzzctrlsctrlzzzzctrlz
+2020-11-05 11:10:03,958	ctrlzzctrlzzctrlsctrlzzzzctrlzalt
+ENTER
+2020-11-05 11:10:05,666	
+ENTER
+2020-11-05 11:10:29,563	doaaaaaaaaaaaa
+ENTER
+2020-11-05 11:10:34,317	libertatateeeeeeee
+ENTER
+2020-11-05 11:10:36,753	iehuuuu
+ENTER
+2020-11-05 11:10:37,500	>D
+ENTER
+2020-11-05 11:10:52,137	;i?
+ENTER
+2020-11-05 11:11:17,237	dap[ c\t s oate
+ENTER
+2020-11-05 11:11:19,562	ajunge
+ENTER
+2020-11-05 11:11:25,675	muncesc anu mprejiur
+ENTER
+2020-11-05 11:11:27,328	far
+2020-11-05 11:11:27,545	fa
+2020-11-05 11:11:27,691	f
+2020-11-05 11:11:29,706	f[r[r
+2020-11-05 11:11:29,870	f[r[
+2020-11-05 11:11:33,154	f[r[ concediu
+ENTER
+2020-11-05 11:11:39,896	unde s-a mai v[zut a;a ceva?
+ENTER
+2020-11-05 11:11:50,765	xactly
+ENTER
+2020-11-05 11:11:54,107	eu tot
+ENTER
+2020-11-05 11:11:58,767	prima data si aud
+ENTER
